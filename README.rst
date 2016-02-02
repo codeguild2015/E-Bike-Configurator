@@ -15,7 +15,7 @@
 * Sublime Text 2
 * pip 7.1.2
 
-.. image:: configurator-demo.webm
+.. image:: http://webm.host/472f0/
 
 ## Prerequisites
 
