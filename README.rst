@@ -31,76 +31,15 @@ Prerequisites
 
 Before attempting to run the configurator, run the propel_spider.py web scraper.
 This scraper uses scrapy, which at the time of this writing (21-Jan-2016) required
-python 2.7.  Set up a virtural environment with the following packages installed and run the scraper
-with the following command - 'scrapy runspider propel_spider.py'.  This will populate
+python 2.7.  
+
+Set up a Python 2.7 virtural environment with packages installed as described in venv_python_2.7.txt
+
+Start the virtual environment and run the scraper with the following command - 'scrapy runspider propel_spider.py'.  This will populate
 the postgres database.
 
-cffi==1.2.1
-characteristic==14.3.0
-cryptography==1.0.2
-cssselect==0.9.1
-diff-match-patch==20121119
-Django==1.9
-django-adaptors==0.2.5
-django-csv-importer==0.1.3.5
-django-import-export==0.4.1
-enum34==1.0.4
-idna==2.0
-ipaddress==1.0.14
-lxml==3.5.0
-numpy==1.10.2
-psycopg2==2.6.1
-pyasn1==0.1.9
-pyasn1-modules==0.0.8
-pycparser==2.14
-pyOpenSSL==0.15.1
-python-dateutil==2.4.2
-pytz==2015.7
-queuelib==1.4.2
-Scrapy==1.0.3
-scrapy-djangoitem==1.0.0
-selenium==2.48.0
-service-identity==14.0.0
-six==1.10.0
-tablib==0.10.0
-Twisted==15.4.0
-w3lib==1.13.0
-wheel==0.26.0
-zope.interface==4.1.3
-
-The configurator should be run in a virtual environment with the following packages installed:
-
-cffi==1.3.1
-characteristic==14.3.0
-cryptography==1.1.1
-cssselect==0.9.1
-diff-match-patch==20121119
-Django==1.9
-django-adaptors==0.2.5
-django-csv-importer==0.1.3.5
-django-import-export==0.4.0
-idna==2.0
-lxml==3.5.0
-numpy==1.10.1
-pandas==0.17.1
-psycopg2==2.6.1
-pyasn1==0.1.9
-pyasn1-modules==0.0.8
-pycparser==2.14
-pyOpenSSL==0.15.1
-python-dateutil==2.4.2
-pytz==2015.7
-queuelib==1.4.2
-Scrapy==1.0.3
-selenium==2.48.0
-service-identity==14.0.0
-six==1.10.0
-tablib==0.10.0
-Twisted==15.4.0
-w3lib==1.13.0
-wheel==0.26.0
-zope.interface==4.1.3
-
+The configurator should be run in a Python 3.5 virtual environment with the following packages installed:
+Set up a virtural environment with packages installed as described in venv_python_3.5.txt
 
 Installation
 ------------
@@ -122,14 +61,16 @@ Contributing
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 
-## History
+History
+-------
 
 TODO: Write history
 
 Credits
 -------
 
-####Other support:
+Other support:
+-------------
 * User Authentication by [How to Tango with Django 1.7](http://www.tangowithdjango.com/book17/chapters/login.html)
 * README.md template for this project by [zenorocha](https://gist.github.com/zenorocha/4526327)
 * Bootstrap: how do I change the width of the container by [Robbie Averill](http://stackoverflow.com/questions/15884102/bootstrap-how-do-i-change-the-width-of-the-container)
