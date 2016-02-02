@@ -15,7 +15,7 @@
 * Sublime Text 2
 * pip 7.1.2
 
-.. image:: http://webm.host/472f0/
+.. image:: e-bike-demo-1.gif
 
 ## Prerequisites
 
