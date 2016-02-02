@@ -16,7 +16,7 @@
 * pip 7.1.2
 
 ## Demo
-<img src="http://webm.land/media/ghGV.webm">
+<img src="http://webm.land/media/ghGV.webm" />
 
 ## Prerequisites
 
