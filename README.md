@@ -15,6 +15,10 @@
 * Sublime Text 2
 * pip 7.1.2
 
+## Demo
+
++![Screenshot](http://webm.host/472f0/)
+
 
 ## Prerequisites
 
