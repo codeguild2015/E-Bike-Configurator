@@ -18,7 +18,7 @@
 ## Demo 1
 <img src="http://depositfiles.com/files/lamk18vwp" />
 ## Demo 2
-![Screenshot](http://webm.land/media/ghGV.webm)
+.. image:: e-bike-demo-1.gif
 
 ## Demo 3
 <img src="http://www.ghostxray.com/clip3.gif" />
