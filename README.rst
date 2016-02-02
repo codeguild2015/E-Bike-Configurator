@@ -1,8 +1,10 @@
-# E-Bike Configurator
+E-Bike Configurator
+-------------------
 
 **E-Bike Configurator is a tool for perspective E-Bike purchasers to make informed purchasing decisions**
 
-## Built with
+Built With
+----------
 
 * Python 3.5
 * Python 2.7
@@ -15,9 +17,13 @@
 * Sublime Text 2
 * pip 7.1.2
 
+Site Demo
+---------
+
 .. image:: e-bike-demo-1.gif
 
-## Prerequisites
+Prerequisites
+-------------
 
 * Basic Python knowledge.
 * Installed [Python](https://www.python.org) and [Virtualenv](https://github.com/kennethreitz/python-guide/blob/master/docs/dev/virtualenvs.rst) in a unix-style environment. See this [guide](http://docs.python-guide.org/en/latest/starting/install/osx/) for guidance.
@@ -96,9 +102,8 @@ wheel==0.26.0
 zope.interface==4.1.3
 
 
-
-## Installation
-
+Installation
+------------
 "Requirements files" are files containing lists of items to be installed using pip install like so:
 
 `pip install -r requirements.txt`
@@ -108,7 +113,8 @@ A fork is a copy of a repository. Forking a repository allows you to freely expe
 On GitHub, navigate to the [https://github.com/rvarley/capstone) repository. See this [guide](https://help.github.com/articles/fork-a-repo/) for guidance to fork the repository.
 
 
-## Contributing
+Contributing
+------------
 
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
@@ -120,8 +126,8 @@ On GitHub, navigate to the [https://github.com/rvarley/capstone) repository. See
 
 TODO: Write history
 
-## Credits
-
+Credits
+-------
 
 ####Other support:
 * User Authentication by [How to Tango with Django 1.7](http://www.tangowithdjango.com/book17/chapters/login.html)
@@ -143,8 +149,8 @@ TODO: Write history
 * Error: “dictionary update sequence element #0 has length 1; 2 is required” on Django by [Thane Brimhall](http://stackoverflow.com/questions/17610732/error-dictionary-update-sequence-element-0-has-length-1-2-is-required-on-dj)
 * Updating User model in Django with class based UpdateView by [Ricardo Murillo](http://stackoverflow.com/questions/6181041/updating-user-model-in-django-with-class-based-updateview)
 
-## License
-
+License
+-------
 Copyright (c) 2015 E-Bike Configurator by VarleyRansom
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -165,6 +171,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE
 
-## Questions
-
+Questions
+---------
 For questions, please contact me on [Twitter](https://twitter.com/ransomv).
