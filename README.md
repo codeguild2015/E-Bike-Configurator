@@ -16,7 +16,7 @@
 * pip 7.1.2
 
 ## Demo
-<img src="http://www.ghostxray.com/clip3.gif">
+<img src="http://depositfiles.com/files/2gyth2lq3">
 
 ## Prerequisites
 
