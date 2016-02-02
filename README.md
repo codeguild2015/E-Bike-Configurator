@@ -16,7 +16,7 @@
 * pip 7.1.2
 
 ## Demo
-![Screenshot](http://webm.host/472f0/)
+<img src="http://www.ghostxray.com/clip3.gif">
 
 ## Prerequisites
 
