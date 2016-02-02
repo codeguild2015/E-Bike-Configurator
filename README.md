@@ -16,9 +16,7 @@
 * pip 7.1.2
 
 ## Demo
-
-<iframe width="854" height="480" src="http://webm.host/472f0/" frameborder="0" allowfullscreen></iframe>
-
+![Screenshot](http://webm.host/472f0/)
 
 ## Prerequisites
 
