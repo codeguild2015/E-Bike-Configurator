@@ -17,7 +17,7 @@
 
 ## Demo
 
-+![Screenshot](http://webm.host/472f0/)
++![Demo](http://webm.host/472f0/)
 
 
 ## Prerequisites
