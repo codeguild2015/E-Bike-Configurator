@@ -15,10 +15,14 @@
 * Sublime Text 2
 * pip 7.1.2
 
-## Demo 2
+## Demo 1
 <img src="http://webm.land/media/ghGV.webm" />
 ## Demo 2
 ![Screenshot](http://webm.land/media/ghGV.webm)
+
+## Demo 3
+[![ScreenShot](http://webm.land/media/ghGV.webm)]
+
 
 ## Prerequisites
 
