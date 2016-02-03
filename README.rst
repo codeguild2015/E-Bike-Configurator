@@ -1,6 +1,5 @@
 E-Bike Configurator
 -------------------
-|Build Status| |PyPI| |Gitter|
 
 **E-Bike Configurator is a tool for perspective E-Bike purchasers to make informed purchasing decisions**
 
